@@ -11,6 +11,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to GIt");
+            Console.WriteLine("Added one more line");
                 
         }
     }
